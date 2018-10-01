@@ -1,3 +1,2 @@
 # MoHa
-Careful this is MoHa Stuff.
-小心今后拉清单
+Careful this is MoHa stuff.
